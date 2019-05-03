@@ -22,6 +22,8 @@ Font-style: italic;}
 </body>
 </html>
 
+should be a, not nav
+
 2. 
 body{ background-color: #FFF8DC; 
 color: #000099;
